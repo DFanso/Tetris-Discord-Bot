@@ -1,0 +1,16 @@
+{
+  "name": "tetris-discord-bot",
+  "version": "1.0.0",
+  "description": "Full of spaghetti code and impossible to understand, but here's the code for my video 'Making Tetris Using Discords Bot API'. Watch it here lol: https://youtu.be/UqQz1qkBMkE",
+  "main": "tetris_bot.js",
+  "scripts": {
+    "start": "node tetris_bot",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}
